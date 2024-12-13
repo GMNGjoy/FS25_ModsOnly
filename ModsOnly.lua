@@ -1,5 +1,5 @@
 ModsOnly = {}
-ModsOnly.debug = true
+ModsOnly.debug = false
 ModsOnly.protectedCagtegories = {
     ['PLACEABLEMISC'] = true,
     ['DECORATION'] = true,

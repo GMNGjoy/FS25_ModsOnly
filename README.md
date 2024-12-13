@@ -5,6 +5,8 @@ It's entirely possible, and creates not only a reliance on the modding community
 
 This mod will remove all base-game vehicles, tools & placeables from the store. Those items are still there in the game, and if they already exist in a save, you will not lose anything... you just won't be able to buy / place anything from the base-game once the mod is enabled.
 
+New farmer vehicles and vehicles as part of contracts will still spawn as normal, but you won't be able to purchase those same vehicles in the store.
+
 ## Square by Modded Square Challenge
 
 This mod is the core of a challenge that I'm proposing, called the **Square by Modded Square Challenge**, which has the following simple rules:
@@ -29,3 +31,24 @@ _Goal:_
 2. Launch the game, and activate the mod.
 
 _Enjoy!_
+
+
+## Screenshots
+
+![No base-game vehicles; Only Mods & DLCs!](/_screenshots/modsonly_screenshot_1-vehicles.png)
+<br/><br/>
+
+![All base-game brands are hidden, only see what you install!](/_screenshots/modsonly_screenshot_2-brands.png)
+<br/><br/>
+
+![No buildings to place.](/_screenshots/modsonly_screenshot_3-buildings.png)
+<br/><br/>
+
+![No factories.](/_screenshots/modsonly_screenshot_4-factories.png)
+<br/><br/>
+
+![No animal pens.](/_screenshots/modsonly_screenshot_5-animals.png)
+<br/><br/>
+
+![No decorations.](/_screenshots/modsonly_screenshot_6-decorations.png)
+

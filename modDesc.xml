@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <modDesc descVersion="93">
     <author>GMNGjoy</author>
-    <version>0.9.1.0</version>
+    <version>1.0.0.0</version>
     <title>
         <en>Mods Only</en>
     </title>
@@ -12,10 +12,18 @@ Challenge: Can you survive playing with _only mods_ and nothing from the basegam
 Removing base-game vehicles, tools & placeables creates an interesting gameplay restriction that may change how you look at your gameplay.
 
 This mod will remove all base-game vehicles, tools & placeables from the store. Those items are still there in the game, and if they already exist in a save, you will not lose anything... you just won't be able to buy / place anything from the base-game once the mod is enabled.
+
+GitHub link: https://github.com/GMNGjoy/FS25_ModsOnly
 ]]></en>
     <de><![CDATA[
-    
-    ]]></de>
+Herausforderung: Kannst du überleben, indem du _nur mit Mods_ und nichts aus dem Basisspiel spielst?
+
+Das Entfernen der Fahrzeuge, Geräte und platzierbaren Objekte aus dem Basisspiel erzeugt interessante Einschränkungen die ändern können, wie du deinen Spielstil betrachtest.
+
+Dieser Mod wird alle Fahrzeuge, Geräte und platzierbaren Objekte des Basisspiels entfernen. Diese Dinge werden immer noch im Spiel sein, und wenn sie bereits in einem Spielstand vorhanden sind, wirst du sie auch nicht verlieren... Du wirst nur nicht in der Lage sein, diese Dinge zu kaufen / zu platzieren, sobald der Mod aktiv ist.
+
+GitHub-Link: https://github.com/GMNGjoy/FS25_ModsOnly
+]]></de>
     </description>
     <iconFilename>icon_modsOnly.dds</iconFilename>
     <multiplayer supported="true"/>
