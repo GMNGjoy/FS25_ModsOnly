@@ -1,0 +1,11 @@
+# Text files: LF in the repo, CRLF on disk (mod files use CRLF). Overrides core.autocrlf on every machine.
+* text=auto eol=crlf
+
+# Never touch these
+*.dds binary
+*.png binary
+*.shapes binary
+*.i3d.shapes binary
+*.zip binary
+*.ogg binary
+*.wav binary
